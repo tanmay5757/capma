@@ -1,0 +1,13 @@
+{
+  "doubleclick.net": "ads",
+  "googlesyndication.com": "ads",
+  "google-analytics.com": "analytics",
+  "app-measurement.com": "analytics",
+  "mixpanel.com": "analytics",
+  "segment.io": "analytics",
+  "branch.io": "tracking",
+  "adjust.com": "tracking",
+  "firebaseinstallations.googleapis.com": "normal",
+  "gstatic.com": "normal",
+  "googleapis.com": "normal"
+}
