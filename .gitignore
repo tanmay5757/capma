@@ -1,15 +1,22 @@
+# Gradle
+.gradle/
+build/
+
+# Local config (machine-specific)
+local.properties
+
+# IDE (Android Studio / IntelliJ)
+.idea/
 *.iml
-.gradle
-/local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
+
+# OS files
 .DS_Store
-/build
+Thumbs.db
+
+# Build outputs
 /captures
 .externalNativeBuild
 .cxx
-local.properties
+
+# Kotlin / Java temp
+*.log
